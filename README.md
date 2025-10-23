@@ -1,2 +1,1 @@
-# new_repo
-my repo
+this ia a new repo
